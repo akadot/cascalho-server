@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cascalho.Infra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15ff1e21f3c69144737ba97b0a37275680a07d69")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71d96560947e640e8736780dfa06db4b71368fd6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cascalho.Infra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cascalho.Infra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
