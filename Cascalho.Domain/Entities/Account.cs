@@ -12,6 +12,7 @@ public class Account : Base
     public string Avatar {get;set;} = default!;
     [Required]
     public long OwnerId {get;set;} = default!;
+    public User Owner { get; set; } = null!;
 
     public ICollection<UserAccount> UserAccounts {get;set;} = new List<UserAccount>();
     public ICollection<Transaction> Transactions { get; set; } = new List<Transaction>();
